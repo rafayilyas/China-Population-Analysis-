@@ -1,2 +1,2 @@
 # China-Population-Analysis-
-A python code containing major statistical methods to find out the population changes in china
+This project focuses on analyzing global population data using Python, offering visual insights into demographic trends and growth patterns. It leverages libraries like Pandas, Matplotlib, and Seaborn to process and visualize population statistics, enabling comparisons between countries or regions and highlighting key changes over time. Ideal for data enthusiasts and researchers, the analysis presents clear summaries and interactive charts to support deeper understanding of population dynamics
